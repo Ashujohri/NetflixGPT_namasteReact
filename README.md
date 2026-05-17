@@ -1,20 +1,16 @@
-# Neflix GPT
- - Create React App
- - Configured TailwindCss
+# NetflixGPT 🎬
+AI-powered Netflix clone using React.js + GPT API
 
+## 🚀 Live Demo
+[Link here]
 
+## 📸 Screenshots
+[Add screenshots]
 
-# Features
-- Login/Signup
- - Sign in / Signup form
- - redirect to browse page 
- - Browse (After Authentication)
-  - Header
-  - Main movie
-   - Trailer in background
-   - Title & Description
-   - Movie Suggestion
-    - MoviesLists
- - NetflixGPT
-  - Search Bar
-  - Movie Suggestion
+## 🛠️ Tech Stack
+React.js | Tailwind CSS | Redux | Firebase | OpenAI API
+
+## ✨ Features
+- GPT-powered movie search
+- Firebase authentication
+- Responsive design
